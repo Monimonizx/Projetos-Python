@@ -1,0 +1,28 @@
+'''
+=====================================================================================================
+A FUNÇÃO DESTE PROGRAMA É CALCULAR O COMPRIMENTO, ÁREA E VOLUME DE UMA ESFERA BASEADO NO VALOR DE PI.
+=====================================================================================================
+'''
+
+#ENTRADA DE DADOS
+PI = float(3.14)
+
+#PROCESSAMENTO DE DADOS
+Raio_Esfera = float(input("Digite o Valor do Raio da esfera: "))
+
+#SAÍDA DE DADOS
+Comprimento_Esfera = 2 * PI * Raio_Esfera
+print("O comprimento da esfera é de: ", Comprimento_Esfera)
+
+Area_Esfera = PI * (Raio_Esfera**2)
+print("A área da esfera é de: ", Area_Esfera)
+
+Volume_Esfera = 3/4 * PI * (Raio_Esfera**3)
+print("O volume da esfera é de: ", Volume_Esfera)
+
+
+
+
+
+
+
