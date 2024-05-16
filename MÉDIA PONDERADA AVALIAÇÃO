@@ -1,0 +1,22 @@
+'''
+=====================================================================================================
+A FUNÇÃO DESTE PROGRAMA É CALCULAR A MÉDIA PONDERADA DE QUATRO AVALIAÇÕES DE UM ESTUDANTE DE ACORDO COM O PESO
+DE CADA AVALIAÇÃO.
+=====================================================================================================
+'''
+#ENTRADA DE DADOS
+Nota_1 = int(input("Digita a nota da primeira avaliação: "))
+Nota_2 = int(input("Digita a nota da segunda avaliação: "))
+Nota_3 = int(input("Digita a nota da terceira avaliação: "))
+Nota_4 = int(input("Digita a nota da quarta avaliação: "))
+
+#PROCESSAMENTO DE DADOS
+Peso_av1 = (Nota_1 * 2)
+Peso_av2 = (Nota_2 * 4)
+Peso_av3 = (Nota_3 * 6)
+Peso_av4 = (Nota_4 * 8)
+
+
+#SAÍDA DE DADOS
+Media_ponderada = (Peso_av1 + Peso_av2 + Peso_av3 + Peso_av4) / 20
+print("Sua média ponderada é de: ", Media_ponderada)
