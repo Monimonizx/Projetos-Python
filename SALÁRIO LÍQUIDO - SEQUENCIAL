@@ -1,6 +1,8 @@
 '''
+=====================================================================================================
 A FUNÇÃO DESTE PROGRAMA É CALCULAR O SALÁRIO LÍQUIDO DE UM EMPREGADO BASEADO EM SEU SALÁRIO LÍQUIDO,
 BASEADO NAS HORAS TRABALHADAS MENSAIS, AUXÍLIO ALIMENTAÇÃO E VALOR  DESCONTADO PELO INSS.
+=====================================================================================================
 '''
 #ENTRADA DE DADOS
 Auxilio_Alimentacao = 87
