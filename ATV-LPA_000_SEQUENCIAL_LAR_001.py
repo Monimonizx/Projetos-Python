@@ -1,18 +1,6 @@
 '''
-====================================================
-ATHON - A melhor Faculdade de Sorocaba
-Programa de Introdução à Linguagem Python
-Disciplina: Lógica de Programação
-Professor: Francisco Tesifom Munhoz
-Data: 1° semestre de 2024
-====================================================
-Atividade: Salário líquido
-Autor: Laura Monize
-Data: 15/05/2024
-Comentários: Resolução atividade sequencial para entrega
-Sequencial simples
-Salário líquido
-====================================================
+A FUNÇÃO DESTE PROGRAMA É CALCULAR O SALÁRIO LÍQUIDO DE UM EMPREGADO BASEADO EM SEU SALÁRIO LÍQUIDO,
+BASEADO NAS HORAS TRABALHADAS MENSAIS, AUXÍLIO ALIMENTAÇÃO E VALOR  DESCONTADO PELO INSS.
 '''
 #ENTRADA DE DADOS
 Auxilio_Alimentacao = 87
